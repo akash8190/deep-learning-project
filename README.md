@@ -19,7 +19,24 @@ In deep learning, a computer model learns to perform classification tasks direct
 
 Artificial Neural Networks or ANN is an information processing paradigm that is inspired by the way the biological nervous system such as brain process information. It is composed of large number of highly interconnected processing elements(neurons) working in unison to solve a specific problem.”
 
+## About churn modeling dataset
 
+# what is chrun rate?
+
+The churn rate is the percentage of subscribers to a service who discontinue their subscriptions to the service within a given time period. For a company to expand its clientele, its growth rate, as measured by the number of new customers, must exceed its churn rate.
+
+
+# problem statement
+
+When I was interning with a Multinational Telecom Company, there the Data Science Team was working on this problem. But their dataset was a huge one. Here I have provided one simple dataset.
+
+
+So, here the Company wants a model which can predict that how likely its current customers will leave the company in near future and hence calculate its churn rate.
+
+This is a Classification Problem in which you'll classify a customer based on his/her Credit Score, Region, Gender, Age, Tenure, Balance, Salary etc. whether he/she will EXIT(1) or NOT(0).
+
+# dataset link
+chrun_modeling dataset https://www.kaggle.com/shrutimechlearn/churn-modelling
 
 
 
