@@ -6,7 +6,7 @@ In this project we simply analyze churn modeling using artificial neural network
 
 ## Technlogy use
 python(version 3.7)
-keras 
+keras, 
 tensorflow
 
 ## deep learning 
