@@ -17,7 +17,7 @@ In deep learning, a computer model learns to perform classification tasks direct
 
 ## Artificial neural network
 
-Artificial Neural Networks or ANN is an information processing paradigm that is inspired by the way the biological nervous system such as brain process information. It is composed of large number of highly interconnected processing elements(neurons) working in unison to solve a specific problem.”
+Artificial Neural Networks or ANN is an information processing paradigm that is inspired by the way the biological nervous system such as brain process information. It is composed of large number of highly interconnected processing elements(neurons) working in unison to solve a specific problem.
 
 ## About churn modeling dataset
 
